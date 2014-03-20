@@ -1,0 +1,16 @@
+.tile.tile-2 .tile-inner { background-image:url(../icon/foreveralone-sad.png); }
+.tile.tile-4 .tile-inner { background-image:url(../icon/foreveralone.png); }
+.tile.tile-8 .tile-inner { background-image:url(../icon/foreveralone-excited.png); }
+.tile.tile-16 .tile-inner { background-image:url(../icon/pokerface.png); }
+.tile.tile-32 .tile-inner { background-image:url(../icon/happy.png); }
+.tile.tile-64 .tile-inner { background-image:url(../icon/laughing.png); }
+.tile.tile-128 .tile-inner { background-image:url(../icon/neutral.png); }
+.tile.tile-256 .tile-inner { background-image:url(../icon/me-gusta.png); }
+.tile.tile-512 .tile-inner { background-image:url(../icon/minor-rage.png); }
+.tile.tile-1024 .tile-inner { background-image:url(../icon/rage.png); }
+.tile.tile-2048 .tile-inner { background-image:url(../icon/GTFO.png); }
+.tile.tile-4096 .tile-inner { background-image:url(../icon/ilied.png); }
+
+html, body {
+    background:#D3E9F5;
+}
